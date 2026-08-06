@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://axisretail.com.br/sitemap.xml
